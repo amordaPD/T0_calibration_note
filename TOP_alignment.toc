@@ -1,0 +1,33 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Motivations and strategy}{2}{subsection.1.1}
+\contentsline {paragraph}{The time alignment (in principle)}{2}{section*.2}
+\contentsline {paragraph}{The time alignment (in {\itshape quasi}-practice)}{3}{section*.3}
+\contentsline {paragraph}{The time alignment (in practice)}{3}{section*.4}
+\contentsline {subsection}{\numberline {1.2}The calibration setup}{5}{subsection.1.2}
+\contentsline {paragraph}{KEK}{5}{section*.5}
+\contentsline {paragraph}{Test-bench system}{5}{section*.6}
+\contentsline {subsection}{\numberline {1.3}The calibration work flow}{5}{subsection.1.3}
+\contentsline {paragraph}{Laser source characterization}{6}{section*.7}
+\contentsline {paragraph}{Time spectra analysis}{6}{section*.8}
+\contentsline {paragraph}{Data-driven procedure}{6}{section*.9}
+\contentsline {paragraph}{MC based procedure}{7}{section*.10}
+\contentsline {section}{\numberline {2}The laser device characterization}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Absolute $T^0$ and laser resolution}{8}{subsection.2.1}
+\contentsline {paragraph}{Discussion about detection time computation and delayed pulses}{8}{section*.11}
+\contentsline {subsection}{\numberline {2.2}Secondary peaks in detection time spectra}{11}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Conclusions}{12}{subsection.2.3}
+\contentsline {section}{\numberline {3}Time spectra analysis: data-driven method}{14}{section.3}
+\contentsline {subsection}{\numberline {3.1}Study of single path detection time shape}{14}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}The single fiber spectra}{14}{subsection.3.2}
+\contentsline {paragraph}{Data}{14}{section*.12}
+\contentsline {paragraph}{Fit model}{14}{section*.13}
+\contentsline {subsection}{\numberline {3.3}The two-fiber contribution}{14}{subsection.3.3}
+\contentsline {paragraph}{Data}{14}{section*.15}
+\contentsline {paragraph}{Fit model}{14}{section*.16}
+\contentsline {subsection}{\numberline {3.4}subsection one.1}{16}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}subsection one.2}{16}{subsection.3.5}
+\contentsline {section}{\numberline {4}The MC modeling}{16}{section.4}
+\contentsline {subsection}{\numberline {4.1}The lens opening distribution}{16}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Simulation results - Padova system}{16}{subsection.4.2}
+\contentsline {section}{\numberline {5}Conclusions}{16}{section.5}
